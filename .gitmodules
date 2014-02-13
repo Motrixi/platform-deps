@@ -3,7 +3,7 @@
 	url = https://github.com/apache/zookeeper.git
 [submodule "boost-svn"]
 	path = boost-svn
-	url = https://github.com/datacratic/boost-svn.git
+	url = git@github.com:Motrixi/boost-svn.git
 [submodule "cityhash"]
 	path = cityhash
 	url = https://github.com/jeremybarnes/cityhash.git
@@ -12,10 +12,10 @@
 	url = https://github.com/bagder/curl.git
 [submodule "curlpp"]
 	path = curlpp
-	url = https://github.com/datacratic/curlpp.git
+	url = git@github.com:Motrixi/curlpp.git
 [submodule "gperftools"]
 	path = gperftools
-	url = https://github.com/datacratic/gperftools.git
+	url = git@github.com:Motrixi/gperftools.git
 [submodule "hiredis"]
 	path = hiredis
 	url = https://github.com/redis/hiredis.git
@@ -24,28 +24,28 @@
 	url = https://github.com/stedolan/jq.git
 [submodule "libssh2"]
 	path = libssh2
-	url = https://github.com/datacratic/libssh2.git
+	url = git@github.com:Motrixi/libssh2.git
 [submodule "mongo-cxx-driver"]
 	path = mongo-cxx-driver
-	url = https://github.com/datacratic/mongo-cxx-driver.git
+	url = git@github.com:Motrixi/mongo-cxx-driver.git
 [submodule "node"]
 	path = node
-	url = https://github.com/datacratic/node.git
+	url = git@github.com:Motrixi/node.git
 [submodule "protobuf"]
 	path = protobuf
-	url = https://github.com/datacratic/protobuf.git
+	url = git@github.com:Motrixi/protobuf.git
 [submodule "redis"]
 	path = redis
-	url = https://github.com/datacratic/redis.git
+	url = git@github.com:Motrixi/redis.git
 [submodule "snappy"]
 	path = snappy
-	url = https://github.com/datacratic/snappy.git
+	url = git@github.com:Motrixi/snappy.git
 [submodule "userspace-rcu"]
 	path = userspace-rcu
-	url = https://github.com/datacratic/userspace-rcu.git
+	url = git@github.com:Motrixi/userspace-rcu.git
 [submodule "zeromq3-x"]
 	path = zeromq3-x
-	url = https://github.com/datacratic/zeromq3-x.git
+	url = git@github.com:Motrixi/zeromq3-x.git
 [submodule "cairomm"]
 	path = cairomm
 	url = git://git.cairographics.org/git/cairomm
